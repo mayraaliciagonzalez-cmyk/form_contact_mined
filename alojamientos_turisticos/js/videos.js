@@ -21,7 +21,7 @@ let videos = [
         "enlace": "https://www.youtube.com/watch?v=90fAqRQJdIw",
         "titulo": "🚀 GLAMPING",
         "duracion": "04:35",
-        "imagen": "glamping_1.jfif"
+        "imagen": "glamping_1.jpg"
     },
     {
         "enlace": "https://www.youtube.com/watch?v=K4UDL3XsC1g",
@@ -33,7 +33,7 @@ let videos = [
         "enlace": "https://www.youtube.com/watch?v=GuOiG9iFS7M",
         "titulo": "🚀 CABAÑAS 👍",
         "duracion": "14:36",
-        "imagen": "cabaña_1.jfif"
+        "imagen": "cabaña_1.jpg"
     },
     {
         "enlace": "https://www.youtube.com/watch?v=jXZOrOINYao",
